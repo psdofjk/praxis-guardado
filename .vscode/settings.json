@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "php.suggest.basic": true,
+  "php.validate.enable": true,
+  "php.validate.executablePath": "/usr/local/bin/php",
+  "liveServer.settings.port": 5501
+}
